@@ -1,1 +1,4 @@
-<img src="./nhen.jpg" style="max-height:400px">
+<p>
+    <img align="left" src="./nhen.jpg" width="60%">
+    
+</p>
