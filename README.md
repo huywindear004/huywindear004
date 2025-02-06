@@ -1,4 +1,4 @@
 <p>
-    <img align="left" src="./nhen.jpg" width="60%">
+    <img align="left" src="./nhen.jpg" >
     
 </p>
